@@ -1,0 +1,12 @@
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\bin\Debug\Week 11B All Exercise.exe.config
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\bin\Debug\Week 11B All Exercise.exe
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\bin\Debug\Week 11B All Exercise.pdb
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\obj\Debug\Week 11B All Exercise.csprojAssemblyReference.cache
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\obj\Debug\Week_11B_All_Exercise.Exercise1.resources
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\obj\Debug\Week_11B_All_Exercise.Menu.resources
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\obj\Debug\Week_11B_All_Exercise.Properties.Resources.resources
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\obj\Debug\Week 11B All Exercise.csproj.GenerateResource.cache
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\obj\Debug\Week 11B All Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\obj\Debug\Week 11B All Exercise.exe
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\obj\Debug\Week 11B All Exercise.pdb
+C:\Users\Halim Yusuf\Documents\Adhim Punya\Pelajaran & Tugas Adhim\Microsoft Visual Studio\Week 11B All Exercise\Week 11B All Exercise\obj\Debug\Week_11B_All_Exercise.Exercise2.resources
